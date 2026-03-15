@@ -1,7 +1,6 @@
 baseURL = "https://urbanwildindia.in/"
 languageCode = "en-gb"
 title = "Urban Wildlife India"
-theme = ""
 
 [params]
   description = "A curated gallery of urban wildlife photography across India."
