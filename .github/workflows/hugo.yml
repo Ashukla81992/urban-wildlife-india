@@ -49,7 +49,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://ashukla81992.github.io/urban-wildlife-india/"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
