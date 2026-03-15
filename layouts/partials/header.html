@@ -1,13 +1,13 @@
 <header class="site-header">
   <nav class="nav-inner">
-    <a href="{{ "/" | relURL }}" class="site-logo">
+    <a href="{{ "/urban-wildlife-india/" | relURL }}" class="site-logo">
       <span class="logo-mark">◈</span>
       <span class="logo-text">{{ .Site.Title }}</span>
     </a>
     <ul class="nav-links">
-      <li><a href="{{ "/" | relURL }}" {{ if .IsHome }}class="active"{{ end }}>Home</a></li>
-      <li><a href="{{ "/gallery/" | relURL }}" {{ if eq .Section "gallery" }}class="active"{{ end }}>Gallery</a></li>
-      <li><a href="{{ "/about/" | relURL }}" {{ if eq .RelPermalink "/about/" }}class="active"{{ end }}>About</a></li>
+      <li><a href="{{ "/urban-wildlife-india/" | relURL }}" {{ if .IsHome }}class="active"{{ end }}>Home</a></li>
+      <li><a href="{{ "/urban-wildlife-india/gallery/" | relURL }}" {{ if eq .Section "gallery" }}class="active"{{ end }}>Gallery</a></li>
+      <li><a href="{{ "/urban-wildlife-india/about/" | relURL }}" {{ if eq .RelPermalink "/about/" }}class="active"{{ end }}>About</a></li>
     </ul>
     <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
       <span></span><span></span><span></span>
