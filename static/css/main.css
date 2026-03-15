@@ -665,6 +665,99 @@ a:hover { color: var(--text); }
 /* ── Hidden filter items ── */
 .gallery-item.hidden { display: none; }
 
+/* ── About Page ── */
+.about-wrap {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: calc(var(--nav-h) + 3rem) 2rem 6rem;
+}
+
+.about-hero {
+  padding: 3rem 0 3rem;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 3rem;
+}
+
+.about-tagline {
+  font-family: var(--font-serif);
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 400;
+  line-height: 1.1;
+  color: var(--text);
+}
+
+.about-tagline em { color: var(--accent); font-style: italic; }
+
+.about-body {
+  font-size: 0.98rem;
+  line-height: 1.9;
+  color: var(--text-muted);
+}
+
+.about-body p { margin-bottom: 1.25rem; }
+.about-body strong { color: var(--text); font-weight: 500; }
+
+.about-body h3 {
+  font-family: var(--font-serif);
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: var(--text);
+  margin: 2.5rem 0 1rem;
+}
+
+.about-body hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2.5rem 0;
+}
+
+/* Social links */
+.about-links {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.about-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.85rem 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  transition: border-color var(--transition), color var(--transition), background var(--transition);
+  text-decoration: none;
+  max-width: 320px;
+}
+
+.about-link:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: rgba(200, 169, 110, 0.05);
+}
+
+.about-link svg { flex-shrink: 0; }
+
+/* Tags */
+.about-tags {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  opacity: 0.6;
+  letter-spacing: 0.04em;
+  margin-bottom: 2rem !important;
+}
+
+/* Contact */
+.about-contact {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.about-contact a { color: var(--accent); }
+
 /* ── Mobile ── */
 @media (max-width: 768px) {
   .nav-links { display: none; }
