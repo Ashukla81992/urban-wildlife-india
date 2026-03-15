@@ -1,0 +1,116 @@
+{{ define "main" }}
+{{ $cover := .Resources.GetMatch "cover.*" }}
+{{ $display := "" }}
+{{ $lightbox := "" }}
+{{ if $cover }}
+  {{ $display  = $cover.Fit "1600x1200 webp q85" }}
+  {{ $lightbox = $cover.Fit "1200x900  webp q82" }}
+{{ end }}
+
+<article class="photo-single">
+
+  {{/* ── Top navigation ── */}}
+  <nav class="photo-topnav">
+    <a href="{{ "/gallery/" | relURL }}" class="back-link">← All Photos</a>
+    <div class="photo-topnav-arrows">
+      {{ with .PrevInSection }}
+        <a href="{{ .RelPermalink }}" class="nav-arrow" title="{{ .Title }}">‹ Prev</a>
+      {{ end }}
+      {{ with .NextInSection }}
+        <a href="{{ .RelPermalink }}" class="nav-arrow" title="{{ .Title }}">Next ›</a>
+      {{ end }}
+    </div>
+  </nav>
+
+  {{/* ── Full-bleed photo (CSS background — no Save Image As) ── */}}
+  {{ if $display }}
+  <div class="photo-stage"
+       style="background-image: url('{{ $display.RelPermalink }}')"
+       role="img"
+       aria-label="{{ .Title }}">
+    <div class="img-shield" aria-hidden="true"></div>
+
+    {{/* Lightbox trigger — opens 1200px version in PhotoSwipe */}}
+    <a class="photo-stage-zoom pswp-gallery"
+       href="{{ $lightbox.RelPermalink }}"
+       data-pswp-width="{{ $lightbox.Width }}"
+       data-pswp-height="{{ $lightbox.Height }}"
+       data-pswp-caption="{{ with .Params.caption }}{{ . }}{{ else }}{{ .Title }}{{ end }}"
+       aria-label="Open in fullscreen">
+      <span class="zoom-icon">⤢</span>
+    </a>
+  </div>
+  {{ end }}
+
+  {{/* ── Metadata + Story (wildlife-gallery.com style) ── */}}
+  <div class="photo-info">
+
+    <div class="photo-info-left">
+      <h1 class="photo-title">{{ .Title }}</h1>
+      {{ with .Params.location }}
+        <p class="photo-location">{{ . }}</p>
+      {{ end }}
+      {{ with .Params.date }}
+        <p class="photo-date">{{ . | time.Format "January 2006" }}</p>
+      {{ end }}
+      <div class="photo-story">
+        {{ .Content }}
+      </div>
+    </div>
+
+    <div class="photo-info-right">
+      <table class="exif-table">
+        {{ with .Params.species  }}<tr><td>Species</td><td>{{ . }}</td></tr>{{ end }}
+        {{ with .Params.camera   }}<tr><td>Camera</td><td>{{ . }}</td></tr>{{ end }}
+        {{ with .Params.lens     }}<tr><td>Lens</td><td>{{ . }}</td></tr>{{ end }}
+        {{ with .Params.settings }}<tr><td>Settings</td><td>{{ . }}</td></tr>{{ end }}
+      </table>
+      {{ with .Params.categories }}
+      <div class="photo-tags">
+        {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
+
+  {{/* ── Prev / Next bottom navigation ── */}}
+  <nav class="photo-footnav">
+    {{ with .PrevInSection }}
+    <a class="footnav-item prev" href="{{ .RelPermalink }}">
+      {{ $pc := .Resources.GetMatch "cover.*" }}
+      {{ if $pc }}
+        {{ $pt := $pc.Fill "300x200 webp q70 Smart" }}
+        <div class="footnav-thumb" style="background-image: url('{{ $pt.RelPermalink }}')"></div>
+        <div class="img-shield" aria-hidden="true"></div>
+      {{ end }}
+      <span class="footnav-label">← {{ .Title }}</span>
+    </a>
+    {{ end }}
+    {{ with .NextInSection }}
+    <a class="footnav-item next" href="{{ .RelPermalink }}">
+      {{ $nc := .Resources.GetMatch "cover.*" }}
+      {{ if $nc }}
+        {{ $nt := $nc.Fill "300x200 webp q70 Smart" }}
+        <div class="footnav-thumb" style="background-image: url('{{ $nt.RelPermalink }}')"></div>
+        <div class="img-shield" aria-hidden="true"></div>
+      {{ end }}
+      <span class="footnav-label">{{ .Title }} →</span>
+    </a>
+    {{ end }}
+  </nav>
+
+</article>
+
+{{/* Init PhotoSwipe for the single-photo zoom button */}}
+<script type="module">
+import PhotoSwipeLightbox from "https://cdn.jsdelivr.net/npm/photoswipe@5.4.3/dist/photoswipe-lightbox.esm.min.js";
+const lb = new PhotoSwipeLightbox({
+  gallery: ".photo-stage",
+  children: "a.photo-stage-zoom",
+  pswpModule: () => import("https://cdn.jsdelivr.net/npm/photoswipe@5.4.3/dist/photoswipe.esm.min.js"),
+  showHideAnimationType: "fade",
+});
+lb.init();
+</script>
+{{ end }}

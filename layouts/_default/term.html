@@ -1,0 +1,10 @@
+{{ define "main" }}
+<section class="gallery-hero">
+  <h1 class="gallery-title">{{ .Title }}</h1>
+</section>
+<div class="pswp-gallery masonry-grid" id="wildlife-gallery">
+  {{ range .Pages }}
+    {{ partial "gallery-card.html" . }}
+  {{ end }}
+</div>
+{{ end }}

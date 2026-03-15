@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+<section class="gallery-hero">
+  <div class="gallery-hero-inner">
+    <p class="gallery-eyebrow">Urban Wildlife India</p>
+    <h1 class="gallery-title">{{ .Title | default "Gallery" }}</h1>
+    {{ with .Content }}
+      <p class="gallery-intro">{{ . }}</p>
+    {{ else }}
+      <p class="gallery-intro">{{ .Site.Params.description }}</p>
+    {{ end }}
+    <p class="gallery-count">{{ len .Pages }} photographs</p>
+  </div>
+</section>
+
+<section class="gallery-filters" aria-label="Filter by category">
+  <button class="filter-btn active" data-filter="all">All</button>
+  {{ range .Site.Taxonomies.categories.ByCount }}
+  <button class="filter-btn" data-filter="{{ .Page.Title | urlize }}">
+    {{ .Page.Title }}
+    <span class="filter-count">{{ .Count }}</span>
+  </button>
+  {{ end }}
+</section>
+
+<div class="masonry-grid" id="wildlife-gallery">
+  {{ range .Pages }}
+    {{ partial "gallery-card.html" . }}
+  {{ end }}
+</div>
+
+{{ end }}

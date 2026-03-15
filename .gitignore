@@ -1,0 +1,14 @@
+public/
+resources/
+.hugo_build.lock
+
+# Raw/original photos — never commit high-res originals to a public repo
+raw_photos/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store

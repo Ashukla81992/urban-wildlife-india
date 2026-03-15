@@ -1,0 +1,48 @@
+{{/*
+  Gallery card.
+  Structure:
+    <a.gallery-item>            ← link to detail page
+      <div.img-clip>            ← overflow:hidden clip boundary for zoom
+        <div.img-bg>            ← CSS background-image (no Save-As menu)
+          <div.img-shield>      ← transparent overlay (blocks right-click)
+        </div>
+      </div>
+      <div.card-meta>           ← always-visible species / title / location
+    </a>
+*/}}
+{{ $page := . }}
+{{ $cover := $page.Resources.GetMatch "cover.*" }}
+{{ if $cover }}
+  {{ $thumb := $cover.Fill "800x533 webp q82 Smart" }}
+
+  {{/* Build space-separated list of all category slugs for JS filter */}}
+  {{ $cats := slice }}
+  {{ range $page.Params.categories }}{{ $cats = $cats | append (. | urlize) }}{{ end }}
+
+  <a class="gallery-item"
+     href="{{ $page.RelPermalink }}"
+     data-category="{{ index ($page.Params.categories) 0 | urlize }}"
+     data-categories="{{ delimit $cats " " }}"
+     title="{{ $page.Title }}">
+
+    <div class="img-clip">
+      <div class="img-bg" style="background-image: url('{{ $thumb.RelPermalink }}');">
+        <div class="img-shield" aria-hidden="true"></div>
+      </div>
+    </div>
+
+    <div class="card-meta">
+      {{ with $page.Params.species }}
+        <span class="card-species">{{ . }}</span>
+      {{ end }}
+      <span class="card-title">{{ $page.Title }}</span>
+      {{ with $page.Params.location }}
+        <span class="card-location">
+          <svg viewBox="0 0 24 24" width="10" height="10" fill="currentColor" aria-hidden="true"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+          {{ . }}
+        </span>
+      {{ end }}
+    </div>
+
+  </a>
+{{ end }}

@@ -1,0 +1,27 @@
+baseURL = "/"
+languageCode = "en-gb"
+title = "Urban Wildlife India"
+theme = ""
+
+[params]
+  description = "A curated gallery of urban wildlife photography across India."
+  author = "@urbanwildlifeindia"
+  watermark = "@urbanwildlifeindia"
+  # PhotoSwipe lightbox version
+  photoswipeVersion = "5.4.3"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[imaging]
+  quality = 85
+  resampleFilter = "Lanczos"
+
+[outputs]
+  home = ["HTML"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[security]
+  [security.funcs]
+    getenv = ["^HUGO_"]
