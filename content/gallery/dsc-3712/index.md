@@ -1,15 +1,15 @@
 ---
-title: Cryptic Bug on a Leaf
+title: Green Bee-eaters
 date: 2020-07-29
-location: Urban Garden, India
-species: Leaf-footed Bug (Tessaratomidae sp.)
+location: India
+species: Green Bee-eater (Merops orientalis)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO6400
-caption: Leaf-footed Bug in the urban landscape of India.
-categories: ["invertebrates", "macro"]
+caption: Green Bee-eater in urban India.
+categories: ["birds"]
 draft: false
-tags: ["bug", "leaf bug", "cryptic", "macro", "insect"]
-description: Wildlife photography of Leaf-footed Bug (Tessaratomidae / Leaf Bug) photographed in urban India. Cryptic Bug on a Leaf.
+tags: ["bee-eater"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

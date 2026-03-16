@@ -1,15 +1,15 @@
 ---
-title: Hen and Chicks in the Backyard
+title: White-throated Kingfisher
 date: 2024-08-16
-location: Urban Backyard, India
-species: Indian Domestic Fowl (Gallus gallus domesticus)
+location: India
+species: White-throated Kingfisher (Halcyon smyrnensis)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO280
-caption: Indian Domestic Fowl in the urban landscape of India.
+caption: White-throated Kingfisher in urban India.
 categories: ["birds"]
 draft: false
-tags: ["chicken", "backyard", "chicks", "poultry"]
-description: Wildlife photography of Indian Domestic Fowl (Gallus gallus domesticus) photographed in urban India. Hen and Chicks in the Backyard.
+tags: ["kingfisher", "halcyon"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

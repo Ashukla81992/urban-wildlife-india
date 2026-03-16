@@ -1,15 +1,15 @@
 ---
-title: Wagtail Along the Footpath
+title: Grey Heron
 date: 2024-09-10
-location: Urban Footpath, India
-species: White-browed Wagtail (Motacilla maderaspatensis)
+location: India
+species: Grey Heron (Ardea cinerea)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO400
-caption: White-browed Wagtail in the urban landscape of India.
-categories: ["birds"]
+caption: Grey Heron in urban India.
+categories: ["birds", "waterbirds"]
 draft: false
-tags: ["wagtail", "motacilla", "urban footpath", "white-browed"]
-description: Wildlife photography of White-browed Wagtail (Motacilla maderaspatensis) photographed in urban India. Wagtail Along the Footpath.
+tags: ["heron"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

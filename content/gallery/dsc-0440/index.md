@@ -1,15 +1,15 @@
 ---
-title: Full Moon Over the City
+title: Barn Swallow
 date: 2024-09-19
-location: Urban Sky, India
-species: Lunar Photography (Earth's Moon)
+location: India
+species: Barn Swallow (Hirundo rustica)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO200
-caption: Lunar Photography in the urban landscape of India.
-categories: ["nocturnal"]
+caption: Barn Swallow in urban India.
+categories: ["birds"]
 draft: false
-tags: ["moon", "night", "astrophotography", "urban sky"]
-description: Wildlife photography of Lunar Photography (Earth's Moon) photographed in urban India. Full Moon Over the City.
+tags: ["swallow", "hirundo"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

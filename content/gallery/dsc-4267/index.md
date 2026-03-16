@@ -1,15 +1,15 @@
 ---
-title: Roller on a Sunny Perch
+title: Rufous Treepie
 date: 2020-10-13
-location: Urban Outskirts, India
-species: Indian Roller (Coracias benghalensis)
+location: India
+species: Rufous Treepie (Dendrocitta vagabunda)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO100
-caption: Indian Roller in the urban landscape of India.
+caption: Rufous Treepie in urban India.
 categories: ["birds"]
 draft: false
-tags: ["indian roller", "coracias", "perch", "blue"]
-description: Wildlife photography of Indian Roller (Coracias benghalensis) photographed in urban India. Roller on a Sunny Perch.
+tags: ["treepie", "dendrocitta"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

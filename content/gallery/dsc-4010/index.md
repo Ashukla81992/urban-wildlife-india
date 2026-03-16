@@ -1,15 +1,15 @@
 ---
-title: Roller on a Sunny Perch
+title: Indian Peafowl
 date: 2020-09-01
-location: Urban Outskirts, India
-species: Indian Roller (Coracias benghalensis)
+location: India
+species: Indian Peafowl (Pavo cristatus)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO110
-caption: Paper Wasp in the urban landscape of India.
-categories: ["invertebrates", "macro"]
+caption: Indian Peafowl in urban India.
+categories: ["birds"]
 draft: false
-tags: ["wasp", "paper wasp", "ropalidia", "macro", "insect"]
-description: Wildlife photography of Paper Wasp (Ropalidia marginata) photographed in urban India. Paper Wasp on a Leaf.
+tags: ["peafowl", "peacock"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

@@ -1,15 +1,15 @@
 ---
-title: Kingfisher on a Concrete Ledge
+title: Rose-ringed Parakeet
 date: 2025-09-25
-location: Urban Canal, India
-species: Common Kingfisher (Alcedo atthis)
+location: India
+species: Rose-ringed Parakeet (Psittacula krameri)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO3600
-caption: Common Kingfisher in the urban landscape of India.
-categories: ["birds", "waterbirds"]
+caption: Rose-ringed Parakeet in urban India.
+categories: ["birds"]
 draft: false
-tags: ["kingfisher", "alcedo", "wall", "perch"]
-description: Wildlife photography of Common Kingfisher (Alcedo atthis) photographed in urban India. Kingfisher on a Concrete Ledge.
+tags: ["parakeet", "psittacula"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

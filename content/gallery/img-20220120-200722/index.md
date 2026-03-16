@@ -1,15 +1,15 @@
 ---
-title: Cat in the Colony at Night
+title: 
 date: 2022-01-20
-location: Urban Colony, India
-species: Urban Cat (Felis catus)
+location: 
+species: 
 camera: ONEPLUS A6010
 lens: 
 settings: ISO640
-caption: Urban Cat in the urban landscape of India.
-categories: ["mammals"]
-draft: false
-tags: ["cat", "urban", "nocturnal", "colony"]
-description: Wildlife photography of Urban Cat (Felis catus) photographed in urban India. Cat in the Colony at Night.
+caption: 
+categories: []
+draft: true
+tags: []
+description: 
 ---
 <!-- Add your story / observation notes here -->

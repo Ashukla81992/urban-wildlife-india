@@ -1,15 +1,15 @@
 ---
-title: Kingfisher on a Concrete Ledge
+title: Indian Palm Squirrel
 date: 2025-09-25
-location: Urban Canal, India
-species: Common Kingfisher (Alcedo atthis)
+location: India
+species: Indian Palm Squirrel (Funambulus palmarum)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO1000
-caption: Common Kingfisher in the urban landscape of India.
-categories: ["birds", "waterbirds"]
+caption: Indian Palm Squirrel in urban India.
+categories: ["mammals"]
 draft: false
-tags: ["kingfisher", "alcedo", "wall", "perch"]
-description: Wildlife photography of Common Kingfisher (Alcedo atthis) photographed in urban India. Kingfisher on a Concrete Ledge.
+tags: ["squirrel", "palm squirrel"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

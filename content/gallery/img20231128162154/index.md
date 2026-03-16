@@ -1,15 +1,15 @@
 ---
-title: Sparrow Foraging
+title: Street Dog
 date: 2023-11-28
-location: Urban Garden, India
-species: House Sparrow (Passer domesticus)
+location: India
+species: Indian Pariah Dog (Canis lupus familiaris)
 camera: OnePlus 11R 5G
 lens: 
 settings: ISO50
-caption: House Sparrow in the urban landscape of India.
-categories: ["birds"]
+caption: Indian Pariah Dog in urban India.
+categories: ["mammals"]
 draft: false
-tags: ["sparrow", "house sparrow", "foraging"]
-description: Wildlife photography of House Sparrow (Passer domesticus) photographed in urban India. Sparrow Foraging.
+tags: ["dog"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

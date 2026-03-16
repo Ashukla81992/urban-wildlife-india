@@ -1,15 +1,15 @@
 ---
-title: Cryptic Bug on a Leaf
+title: Indian Grey Hornbill
 date: 2020-08-09
-location: Urban Garden, India
-species: Leaf-footed Bug (Tessaratomidae sp.)
+location: India
+species: Indian Grey Hornbill (Ocyceros birostris)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO400
-caption: Leaf-footed Bug in the urban landscape of India.
-categories: ["invertebrates", "macro"]
+caption: Indian Grey Hornbill in urban India.
+categories: ["birds"]
 draft: false
-tags: ["bug", "leaf bug", "cryptic", "macro", "insect"]
-description: Wildlife photography of Leaf-footed Bug (Tessaratomidae / Leaf Bug) photographed in urban India. Cryptic Bug on a Leaf.
+tags: ["hornbill", "ocyceros"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

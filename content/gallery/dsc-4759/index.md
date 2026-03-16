@@ -1,15 +1,15 @@
 ---
-title: Peacock in the Urban Park
+title: Little Cormorant
 date: 2021-03-06
-location: Urban Park, India
-species: Indian Peafowl (Pavo cristatus)
+location: India
+species: Little Cormorant (Microcarbo niger)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO200
-caption: Indian Peafowl in the urban landscape of India.
-categories: ["birds", "national-bird"]
+caption: Little Cormorant in urban India.
+categories: ["birds", "waterbirds"]
 draft: false
-tags: ["peacock", "peafowl", "pavo", "national bird"]
-description: Wildlife photography of Indian Peafowl (Pavo cristatus) photographed in urban India. Peacock in the Undergrowth.
+tags: ["cormorant"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

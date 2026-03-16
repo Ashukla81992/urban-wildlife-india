@@ -1,13 +1,15 @@
 ---
-title: Dsc 4717 (2)
+title: Green Bee-eater
 date: 
-location: 
-species: 
+location: India
+species: Green Bee-eater (Merops orientalis)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Green Bee-eater in urban India.
+categories: ["birds"]
 draft: false
+tags: ["bee-eater"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

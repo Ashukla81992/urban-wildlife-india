@@ -1,15 +1,15 @@
 ---
-title: Kingfisher by the Canal
+title: Moth Larva
 date: 2021-04-30
-location: Urban Canal, India
-species: Common Kingfisher (Alcedo atthis)
+location: India
+species: Caterpillar
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO2500
-caption: Common Kingfisher in the urban landscape of India.
-categories: ["birds", "waterbirds"]
+caption: Caterpillar in urban India.
+categories: ["invertebrates", "macro"]
 draft: false
-tags: ["kingfisher", "alcedo", "canal"]
-description: Wildlife photography of Common Kingfisher (Alcedo atthis) photographed in urban India. Kingfisher by the Canal.
+tags: ["caterpillar", "macro"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

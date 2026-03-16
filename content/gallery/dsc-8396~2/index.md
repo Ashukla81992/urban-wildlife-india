@@ -1,13 +1,15 @@
 ---
-title: Dsc 8396~2
+title: Common Kingfisher
 date: 
-location: 
-species: 
+location: India
+species: Common Kingfisher (Alcedo atthis)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Common Kingfisher in urban India.
+categories: ["birds", "waterbirds"]
 draft: false
+tags: ["kingfisher"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

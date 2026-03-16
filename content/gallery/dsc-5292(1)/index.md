@@ -1,13 +1,15 @@
 ---
-title: Dsc 5292(1)
+title: Black-winged Kite
 date: 
-location: 
-species: 
+location: India
+species: Black-winged Kite (Elanus caeruleus)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Black-winged Kite in urban India.
+categories: ["birds", "raptors"]
 draft: false
+tags: ["kite"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

@@ -1,15 +1,15 @@
 ---
-title: Owlet Roosting at Dawn
+title: Cinereous Tit
 date: 2023-12-15
-location: Urban Tree, India
-species: Spotted Owlet (Athene brama)
+location: India
+species: Cinereous Tit (Parus cinereus)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO800
-caption: Spotted Owlet in the urban landscape of India.
-categories: ["birds", "nocturnal"]
+caption: Cinereous Tit in urban India.
+categories: ["birds"]
 draft: false
-tags: ["owlet", "spotted owlet", "athene", "owl", "urban tree"]
-description: Wildlife photography of Spotted Owlet (Athene brama) photographed in urban India. Owlet Roosting at Dawn.
+tags: ["tit", "parus"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

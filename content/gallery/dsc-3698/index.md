@@ -1,15 +1,15 @@
 ---
-title: Dung Beetle on Concrete
+title: Red-vented Bulbul
 date: 2020-07-29
-location: Urban Ground, India
-species: Dung Beetle (Onthophagus sp.)
+location: India
+species: Red-vented Bulbul (Pycnonotus cafer)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO2500
-caption: Dung Beetle in the urban landscape of India.
-categories: ["invertebrates", "macro"]
+caption: Red-vented Bulbul in urban India.
+categories: ["birds"]
 draft: false
-tags: ["beetle", "dung beetle", "scarabaeus", "macro"]
-description: Wildlife photography of Dung Beetle (Onthophagus sp.) photographed in urban India. Dung Beetle on Concrete.
+tags: ["bulbul", "pycnonotus"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

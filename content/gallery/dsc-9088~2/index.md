@@ -1,13 +1,15 @@
 ---
-title: Dsc 9088~2
+title: Large Grey Babbler
 date: 
-location: 
-species: 
+location: India
+species: Large Grey Babbler (Turdoides malcolmi)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Large Grey Babbler in urban India.
+categories: ["birds"]
 draft: false
+tags: ["babbler"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

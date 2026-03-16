@@ -1,13 +1,15 @@
 ---
-title: Dsc 5460~2
+title: Oriental White-eye
 date: 
-location: 
-species: 
+location: India
+species: Oriental White-eye (Zosterops palpebrosus)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Oriental White-eye in urban India.
+categories: ["birds"]
 draft: false
+tags: ["white-eye"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

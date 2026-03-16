@@ -1,13 +1,15 @@
 ---
-title: Dsc 3747~2
+title: Tailorbird Chick
 date: 
-location: 
-species: 
+location: India
+species: Common Tailorbird chick (Orthotomus sutorius)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Common Tailorbird chick in urban India.
+categories: ["birds"]
 draft: false
+tags: ["tailorbird"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

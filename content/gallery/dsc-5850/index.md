@@ -1,15 +1,15 @@
 ---
-title: Cormorant at the Waterside
+title: White Tiger
 date: 2021-09-05
-location: Urban Wetland, India
-species: Little Cormorant (Microcarbo niger)
+location: India
+species: Bengal Tiger (Panthera tigris)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO5000
-caption: Little Cormorant in the urban landscape of India.
-categories: ["birds", "waterbirds"]
+caption: Bengal Tiger in urban India.
+categories: ["mammals"]
 draft: false
-tags: ["cormorant", "waterbird", "wetland"]
-description: Wildlife photography of Little Cormorant (Microcarbo niger) photographed in urban India. Cormorant at the Waterside.
+tags: ["tiger", "captive"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

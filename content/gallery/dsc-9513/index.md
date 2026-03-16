@@ -1,15 +1,15 @@
 ---
-title: Owlet in the Urban Green
+title: Indian Grey Hornbill
 date: 2024-07-01
-location: Urban Neighbourhood, India
-species: Spotted Owlet (Athene brama)
+location: India
+species: Indian Grey Hornbill (Ocyceros birostris)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO200
-caption: Spotted Owlet in the urban landscape of India.
-categories: ["birds", "nocturnal"]
+caption: Indian Grey Hornbill in urban India.
+categories: ["birds"]
 draft: false
-tags: ["owlet", "spotted owlet", "athene", "owl", "nocturnal"]
-description: Wildlife photography of Spotted Owlet (Athene brama) photographed in urban India. Owlet in the Urban Green.
+tags: ["hornbill", "ocyceros"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

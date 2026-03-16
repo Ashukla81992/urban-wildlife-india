@@ -1,15 +1,15 @@
 ---
-title: Bee-eater with Insect on Wire
+title: Indian Golden Oriole
 date: 2025-02-22
-location: Urban Outskirts, India
-species: Green Bee-eater (Merops orientalis)
+location: India
+species: Indian Golden Oriole (Oriolus kundoo)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO800
-caption: Green Bee-eater in the urban landscape of India.
+caption: Indian Golden Oriole in urban India.
 categories: ["birds"]
 draft: false
-tags: ["bee-eater", "merops", "prey", "wire"]
-description: Wildlife photography of Green Bee-eater (Merops orientalis) photographed in urban India. Bee-eater with Insect on Wire.
+tags: ["oriole", "oriolus"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

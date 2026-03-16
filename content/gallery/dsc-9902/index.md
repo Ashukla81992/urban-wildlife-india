@@ -1,15 +1,15 @@
 ---
-title: Spot-billed Duck at the Lake
+title: 
 date: 2024-07-20
-location: Urban Lake, India
-species: Indian Spot-billed Duck (Anas poecilorhyncha)
+location: 
+species: 
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO320
-caption: Indian Spot-billed Duck in the urban landscape of India.
-categories: ["birds", "waterbirds"]
-draft: false
-tags: ["duck", "spot-billed", "waterfowl", "urban lake"]
-description: Wildlife photography of Indian Spot-billed Duck (Anas poecilorhyncha) photographed in urban India. Spot-billed Duck at the Lake.
+caption: 
+categories: []
+draft: true
+tags: []
+description: 
 ---
 <!-- Add your story / observation notes here -->

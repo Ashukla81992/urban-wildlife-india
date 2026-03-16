@@ -1,15 +1,15 @@
 ---
-title: Owlet Roosting at Dawn
+title: Purple Heart Flower
 date: 2024-03-21
-location: Urban Tree, India
-species: Spotted Owlet (Athene brama)
+location: India
+species: Purple Heart (Tradescantia pallida)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO900
-caption: Spotted Owlet in the urban landscape of India.
-categories: ["birds", "nocturnal"]
+caption: Purple Heart in urban India.
+categories: ["nature", "flora"]
 draft: false
-tags: ["owlet", "spotted owlet", "athene", "owl", "urban tree"]
-description: Wildlife photography of Spotted Owlet (Athene brama) photographed in urban India. Owlet Roosting at Dawn.
+tags: ["flower", "tradescantia"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

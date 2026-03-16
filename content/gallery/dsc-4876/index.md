@@ -1,15 +1,15 @@
 ---
-title: Peacock in the Urban Park
+title: Himalayan Bulbul
 date: 2021-03-13
-location: Urban Park, India
-species: Indian Peafowl (Pavo cristatus)
+location: India
+species: Himalayan Bulbul (Pycnonotus leucogenys)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO800
-caption: Indian Peafowl in the urban landscape of India.
-categories: ["birds", "national-bird"]
+caption: Himalayan Bulbul in urban India.
+categories: ["birds"]
 draft: false
-tags: ["peacock", "peafowl", "pavo", "national bird"]
-description: Wildlife photography of Indian Peafowl (Pavo cristatus) photographed in urban India. Peacock in the Undergrowth.
+tags: ["bulbul", "pycnonotus"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

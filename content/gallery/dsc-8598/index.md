@@ -1,15 +1,15 @@
 ---
-title: Frangipani Bloom in the Urban Garden
+title: 
 date: 2023-11-13
-location: Urban Garden, India
-species: Plumeria (Frangipani) (Plumeria rubra)
+location: 
+species: 
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO3200
-caption: Plumeria (Frangipani) in the urban landscape of India.
-categories: ["macro", "flora"]
-draft: false
-tags: ["plumeria", "frangipani", "flower", "macro", "white"]
-description: Wildlife photography of Plumeria (Frangipani) (Plumeria rubra) photographed in urban India. Frangipani Bloom in the Urban Garden.
+caption: 
+categories: []
+draft: true
+tags: []
+description: 
 ---
 <!-- Add your story / observation notes here -->

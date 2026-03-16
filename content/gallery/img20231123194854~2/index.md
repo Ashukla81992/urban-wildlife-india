@@ -1,13 +1,15 @@
 ---
-title: Img20231123194854~2
+title: Street Dog
 date: 
-location: 
-species: 
+location: India
+species: Indian Pariah Dog (Canis lupus familiaris)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Indian Pariah Dog in urban India.
+categories: ["mammals"]
 draft: false
+tags: ["dog"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

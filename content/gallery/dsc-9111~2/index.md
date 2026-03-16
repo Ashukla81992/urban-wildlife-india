@@ -1,13 +1,15 @@
 ---
-title: Dsc 9111~2
+title: Indian Peafowl
 date: 
-location: 
-species: 
+location: India
+species: Indian Peafowl (Pavo cristatus)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Indian Peafowl in urban India.
+categories: ["birds"]
 draft: false
+tags: ["peafowl"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

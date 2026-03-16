@@ -1,15 +1,15 @@
 ---
-title: Wagtail Along the Footpath
+title: Indian Robin
 date: 2024-09-10
-location: Urban Footpath, India
-species: White-browed Wagtail (Motacilla maderaspatensis)
+location: India
+species: Indian Robin (Copsychus fulicatus)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO200
-caption: White-browed Wagtail in the urban landscape of India.
+caption: Indian Robin in urban India.
 categories: ["birds"]
 draft: false
-tags: ["wagtail", "motacilla", "urban footpath", "white-browed"]
-description: Wildlife photography of White-browed Wagtail (Motacilla maderaspatensis) photographed in urban India. Wagtail Along the Footpath.
+tags: ["indian robin", "copsychus"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

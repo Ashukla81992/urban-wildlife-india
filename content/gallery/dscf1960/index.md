@@ -1,15 +1,15 @@
 ---
-title: Spot-billed Duck Perched on Branches
+title: Spot-billed Duck
 date: 2020-10-04
-location: Urban Lake, India
+location: India
 species: Indian Spot-billed Duck (Anas poecilorhyncha)
 camera: FUJIFILM X-T3
 lens: 
 settings: ISO80
-caption: Indian Spot-billed Duck in the urban landscape of India.
+caption: Indian Spot-billed Duck in urban India.
 categories: ["birds", "waterbirds"]
 draft: false
-tags: ["duck", "spot-billed", "perch", "branches"]
-description: Wildlife photography of Indian Spot-billed Duck (Anas poecilorhyncha) photographed in urban India. Spot-billed Duck Perched on Branches.
+tags: ["duck"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

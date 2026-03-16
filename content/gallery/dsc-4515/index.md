@@ -1,15 +1,15 @@
 ---
-title: Paper Wasp on a Leaf
+title: Signature Spider
 date: 2020-11-15
-location: Urban Garden, India
-species: Paper Wasp (Ropalidia marginata)
+location: India
+species: Signature Spider (Argiope sp.)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO360
-caption: Green Bee-eater in the urban landscape of India.
-categories: ["birds"]
+caption: Signature Spider in urban India.
+categories: ["invertebrates", "macro"]
 draft: false
-tags: ["bee-eater", "merops", "wire"]
-description: Wildlife photography of Green Bee-eater (Merops orientalis) photographed in urban India. Bee-eater Scanning for Prey.
+tags: ["spider", "argiope"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

@@ -1,15 +1,15 @@
 ---
-title: Prinia in the Hedgerow
+title: Street Dog
 date: 2023-11-27
-location: Urban Garden, India
-species: Ashy Prinia (Prinia socialis)
+location: India
+species: Indian Pariah Dog (Canis lupus familiaris)
 camera: OnePlus 11R 5G
 lens: 
 settings: ISO800
-caption: Ashy Prinia in the urban landscape of India.
-categories: ["birds"]
+caption: Indian Pariah Dog in urban India.
+categories: ["mammals"]
 draft: false
-tags: ["prinia", "ashy prinia", "hedgerow", "urban"]
-description: Wildlife photography of Ashy Prinia (Prinia socialis) photographed in urban India. Prinia in the Hedgerow.
+tags: ["dog"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

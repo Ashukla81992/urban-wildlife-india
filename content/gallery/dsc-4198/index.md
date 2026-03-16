@@ -1,15 +1,15 @@
 ---
-title: Roller on a Sunny Perch
+title: Black Kite
 date: 2020-10-02
-location: Urban Outskirts, India
-species: Indian Roller (Coracias benghalensis)
+location: India
+species: Black Kite (Milvus migrans)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO640
-caption: Indian Roller in the urban landscape of India.
-categories: ["birds"]
+caption: Black Kite in urban India.
+categories: ["birds", "raptors"]
 draft: false
-tags: ["indian roller", "coracias", "perch", "blue"]
-description: Wildlife photography of Indian Roller (Coracias benghalensis) photographed in urban India. Roller on a Sunny Perch.
+tags: ["kite", "milvus", "raptor"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

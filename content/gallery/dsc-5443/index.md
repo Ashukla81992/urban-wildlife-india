@@ -1,15 +1,15 @@
 ---
-title: Roller Surveying from a High Perch
+title: Oriental White-eye
 date: 2021-07-29
-location: Urban Outskirts, India
-species: Indian Roller (Coracias benghalensis)
+location: India
+species: Oriental White-eye (Zosterops palpebrosus)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO6400
-caption: Indian Roller in the urban landscape of India.
+caption: Oriental White-eye in urban India.
 categories: ["birds"]
 draft: false
-tags: ["indian roller", "coracias", "perch"]
-description: Wildlife photography of Indian Roller (Coracias benghalensis) photographed in urban India. Roller Surveying from a High Perch.
+tags: ["white-eye", "zosterops"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

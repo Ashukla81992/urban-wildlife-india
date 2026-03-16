@@ -1,15 +1,15 @@
 ---
-title: Black Kite Skimming the Rooftops
+title: Oriental Garden Lizard
 date: 2024-09-08
-location: Urban Neighbourhood, India
-species: Black Kite (Milvus migrans)
+location: India
+species: Oriental Garden Lizard (Calotes versicolor)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO400
-caption: Black Kite in the urban landscape of India.
-categories: ["birds", "raptors"]
+caption: Oriental Garden Lizard in urban India.
+categories: ["reptiles"]
 draft: false
-tags: ["kite", "black kite", "milvus", "raptor", "urban"]
-description: Wildlife photography of Black Kite (Milvus migrans) photographed in urban India. Black Kite Skimming the Rooftops.
+tags: ["calotes", "lizard", "garden"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

@@ -1,13 +1,15 @@
 ---
-title: Dsc 4305~2
+title: Purple Sunbird
 date: 
-location: 
-species: 
+location: India
+species: Purple Sunbird (Cinnyris asiaticus)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Purple Sunbird in urban India.
+categories: ["birds"]
 draft: false
+tags: ["sunbird"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

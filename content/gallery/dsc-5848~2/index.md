@@ -1,13 +1,15 @@
 ---
-title: Dsc 5848~2
+title: White Tiger
 date: 
-location: 
-species: 
+location: India
+species: Bengal Tiger (Panthera tigris)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Bengal Tiger in urban India.
+categories: ["mammals"]
 draft: false
+tags: ["tiger"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

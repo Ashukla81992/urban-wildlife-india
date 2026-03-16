@@ -1,15 +1,15 @@
 ---
-title: Dung Beetle on Concrete
+title: Green Bee-eater
 date: 2020-07-29
-location: Urban Ground, India
-species: Dung Beetle (Onthophagus sp.)
+location: India
+species: Green Bee-eater (Merops orientalis)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO4000
-caption: Dung Beetle in the urban landscape of India.
-categories: ["invertebrates", "macro"]
+caption: Green Bee-eater in urban India.
+categories: ["birds"]
 draft: false
-tags: ["beetle", "dung beetle", "scarabaeus", "macro"]
-description: Wildlife photography of Dung Beetle (Onthophagus sp.) photographed in urban India. Dung Beetle on Concrete.
+tags: ["bee-eater", "merops"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

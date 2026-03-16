@@ -1,15 +1,15 @@
 ---
-title: Roller on a Sunny Perch
+title: Green Bee-eater
 date: 2024-09-22
-location: Urban Outskirts, India
-species: Indian Roller (Coracias benghalensis)
+location: India
+species: Green Bee-eater (Merops orientalis)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO1400
-caption: An Indian Roller rests on an electricity wire, its turquoise-and-blue plumage almost indistinguishable from the pale morning sky.
+caption: Green Bee-eater in urban India.
 categories: ["birds"]
-tags: ["indian roller", "coracias benghalensis", "blue bird india", "roller bird", "electric wire bird", "urban raptor"]
-description: An Indian Roller (Coracias benghalensis) photographed perched on an electricity wire — one of India's most jewel-like birds, a familiar sight on urban roadsides and farmland.
+tags: ["bee-eater", "merops"]
+description: 
 draft: false
 ---
 The Indian Roller is one of those birds that stops traffic. A crow-sized bird of spectacular blue and turquoise plumage, it is the state bird of three Indian states — Karnataka, Odisha, and Telangana — and is commonly seen along roads, perched on wires and fence posts watching for insects and lizards below.

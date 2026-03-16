@@ -1,15 +1,15 @@
 ---
-title: Pigeon on a City Ledge
+title: Land Snail
 date: 2017-10-19
-location: Urban City, India
-species: Rock Pigeon (Columba livia)
+location: India
+species: Land snail
 camera: Motorola Moto G (4)
 lens: 
 settings: ISO64
-caption: Rock Pigeon in the urban landscape of India.
-categories: ["birds"]
+caption: Land snail in urban India.
+categories: ["invertebrates", "macro"]
 draft: false
-tags: ["pigeon", "columba", "city", "urban"]
-description: Wildlife photography of Rock Pigeon (Columba livia) photographed in urban India. Pigeon on a City Ledge.
+tags: ["snail"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

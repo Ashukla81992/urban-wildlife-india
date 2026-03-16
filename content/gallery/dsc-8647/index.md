@@ -1,15 +1,15 @@
 ---
-title: Frangipani Bloom in the Urban Garden
+title: Great Egret with Ibis
 date: 2023-12-02
-location: Urban Garden, India
-species: Plumeria (Frangipani) (Plumeria rubra)
+location: India
+species: Great Egret and Glossy Ibis
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO400
-caption: Plumeria (Frangipani) in the urban landscape of India.
-categories: ["macro", "flora"]
+caption: Great Egret and Glossy Ibis in urban India.
+categories: ["birds", "waterbirds"]
 draft: false
-tags: ["plumeria", "frangipani", "flower", "macro", "white"]
-description: Wildlife photography of Plumeria (Frangipani) (Plumeria rubra) photographed in urban India. Frangipani Bloom in the Urban Garden.
+tags: ["egret", "ibis"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

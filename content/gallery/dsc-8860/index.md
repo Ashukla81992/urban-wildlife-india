@@ -1,15 +1,15 @@
 ---
-title: Owlet Roosting at Dawn
+title: Water Buffalo
 date: 2023-12-16
-location: Urban Tree, India
-species: Spotted Owlet (Athene brama)
+location: India
+species: Indian Water Buffalo (Bubalus bubalis)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO800
-caption: Spotted Owlet in the urban landscape of India.
-categories: ["birds", "nocturnal"]
+caption: Indian Water Buffalo in urban India.
+categories: ["mammals"]
 draft: false
-tags: ["owlet", "spotted owlet", "athene", "owl", "urban tree"]
-description: Wildlife photography of Spotted Owlet (Athene brama) photographed in urban India. Owlet Roosting at Dawn.
+tags: ["buffalo", "captive"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

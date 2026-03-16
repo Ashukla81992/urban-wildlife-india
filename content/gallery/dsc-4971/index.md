@@ -1,15 +1,15 @@
 ---
-title: Peacock in the Urban Park
+title: Himalayan Bluetail
 date: 2021-03-13
-location: Urban Park, India
-species: Indian Peafowl (Pavo cristatus)
+location: India
+species: Himalayan Bluetail (Tarsiger rufilatus)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO2800
-caption: Indian Peafowl in the urban landscape of India.
-categories: ["birds", "national-bird"]
+caption: Himalayan Bluetail in urban India.
+categories: ["birds"]
 draft: false
-tags: ["peacock", "peafowl", "pavo", "national bird"]
-description: Wildlife photography of Indian Peafowl (Pavo cristatus) photographed in urban India. Peacock in the Undergrowth.
+tags: ["bluetail", "flycatcher"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

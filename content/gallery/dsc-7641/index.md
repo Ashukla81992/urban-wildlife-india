@@ -1,15 +1,15 @@
 ---
-title: Spot-billed Duck Family on the Lake
+title: Little Egret
 date: 2023-06-17
-location: Urban Lake, India
-species: Indian Spot-billed Duck (Anas poecilorhyncha)
+location: India
+species: Little Egret (Egretta garzetta)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO640
-caption: Common Kingfisher in the urban landscape of India.
+caption: Little Egret in urban India.
 categories: ["birds", "waterbirds"]
 draft: false
-tags: ["kingfisher", "alcedo", "hunting", "urban water"]
-description: Wildlife photography of Common Kingfisher (Alcedo atthis) photographed in urban India. Kingfisher Hunting from a Branch.
+tags: ["egret", "egretta"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

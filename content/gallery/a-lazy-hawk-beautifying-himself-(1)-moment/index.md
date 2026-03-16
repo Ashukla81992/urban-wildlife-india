@@ -1,13 +1,15 @@
 ---
-title: A Lazy Hawk Beautifying Himself (1) Moment
+title: Shikra Preening
 date: 
-location: 
-species: 
+location: India
+species: Shikra (Accipiter badius)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Shikra in urban India.
+categories: ["birds", "raptors"]
 draft: false
+tags: ["shikra"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

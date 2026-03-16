@@ -1,15 +1,15 @@
 ---
-title: Full Moon Over the City
+title: Little Egret
 date: 2024-09-19
-location: Urban Sky, India
-species: Lunar Photography (Earth's Moon)
+location: India
+species: Little Egret (Egretta garzetta)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO320
-caption: Lunar Photography in the urban landscape of India.
-categories: ["nocturnal"]
+caption: Little Egret in urban India.
+categories: ["birds", "waterbirds"]
 draft: false
-tags: ["moon", "night", "astrophotography", "urban sky"]
-description: Wildlife photography of Lunar Photography (Earth's Moon) photographed in urban India. Full Moon Over the City.
+tags: ["egret", "egretta"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

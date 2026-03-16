@@ -1,15 +1,15 @@
 ---
-title: Kingfisher by the Canal
+title: Indian Street Dog
 date: 2021-05-20
-location: Urban Canal, India
-species: Common Kingfisher (Alcedo atthis)
+location: India
+species: Indian Pariah Dog (Canis lupus familiaris)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO400
-caption: Common Kingfisher in the urban landscape of India.
-categories: ["birds", "waterbirds"]
+caption: Indian Pariah Dog in urban India.
+categories: ["mammals"]
 draft: false
-tags: ["kingfisher", "alcedo", "canal"]
-description: Wildlife photography of Common Kingfisher (Alcedo atthis) photographed in urban India. Kingfisher by the Canal.
+tags: ["dog", "pariah", "street dog"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

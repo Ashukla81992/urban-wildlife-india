@@ -1,13 +1,15 @@
 ---
-title: Dsc 8451~3
+title: Chital
 date: 
-location: 
-species: 
+location: India
+species: Spotted Deer (Axis axis)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Spotted Deer in urban India.
+categories: ["mammals"]
 draft: false
+tags: ["chital"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

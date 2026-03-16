@@ -1,15 +1,15 @@
 ---
-title: Peacock in the Urban Park
+title: Indian Street Dog
 date: 2021-03-13
-location: Urban Park, India
-species: Indian Peafowl (Pavo cristatus)
+location: India
+species: Indian Pariah Dog (Canis lupus familiaris)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO200
-caption: Indian Peafowl in the urban landscape of India.
-categories: ["birds", "national-bird"]
+caption: Indian Pariah Dog in urban India.
+categories: ["mammals"]
 draft: false
-tags: ["peacock", "peafowl", "pavo", "national bird"]
-description: Wildlife photography of Indian Peafowl (Pavo cristatus) photographed in urban India. Peacock in the Undergrowth.
+tags: ["dog", "pariah", "street dog"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

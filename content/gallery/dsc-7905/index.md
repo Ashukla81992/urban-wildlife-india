@@ -1,15 +1,15 @@
 ---
-title: Spot-billed Duck Family on the Lake
+title: Oriental Garden Lizard
 date: 2023-07-30
-location: Urban Lake, India
-species: Indian Spot-billed Duck (Anas poecilorhyncha)
+location: India
+species: Oriental Garden Lizard (Calotes versicolor)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO400
-caption: Common Kingfisher in the urban landscape of India.
-categories: ["birds", "waterbirds"]
+caption: Oriental Garden Lizard in urban India.
+categories: ["reptiles"]
 draft: false
-tags: ["kingfisher", "alcedo", "hunting", "urban water"]
-description: Wildlife photography of Common Kingfisher (Alcedo atthis) photographed in urban India. Kingfisher Hunting from a Branch.
+tags: ["calotes", "lizard", "garden"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

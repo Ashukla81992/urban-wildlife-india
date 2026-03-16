@@ -1,15 +1,15 @@
 ---
-title: Myna at Dusk
+title: Street Dog
 date: 2020-11-10
-location: Urban Rooftop, India
-species: Common Myna (Acridotheres tristis)
+location: India
+species: Indian Pariah Dog (Canis lupus familiaris)
 camera: ONEPLUS A6010
 lens: 
 settings: ISO2000
-caption: Common Myna in the urban landscape of India.
-categories: ["birds"]
+caption: Indian Pariah Dog in urban India.
+categories: ["mammals"]
 draft: false
-tags: ["myna", "urban", "rooftop"]
-description: Wildlife photography of Common Myna (Acridotheres tristis) photographed in urban India. Myna at Dusk.
+tags: ["dog"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

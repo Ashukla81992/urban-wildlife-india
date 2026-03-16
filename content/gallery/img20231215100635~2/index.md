@@ -1,13 +1,15 @@
 ---
-title: Img20231215100635~2
+title: Oriental Garden Lizard
 date: 
-location: 
-species: 
+location: India
+species: Oriental Garden Lizard (Calotes versicolor)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Oriental Garden Lizard in urban India.
+categories: ["reptiles"]
 draft: false
+tags: ["lizard"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

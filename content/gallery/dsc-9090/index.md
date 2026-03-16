@@ -1,15 +1,15 @@
 ---
-title: Owlet in the Urban Green
+title: Large Grey Babbler
 date: 2024-03-22
-location: Urban Neighbourhood, India
-species: Spotted Owlet (Athene brama)
+location: India
+species: Large Grey Babbler (Turdoides malcolmi)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO560
-caption: Spotted Owlet in the urban landscape of India.
-categories: ["birds", "nocturnal"]
+caption: Large Grey Babbler in urban India.
+categories: ["birds"]
 draft: false
-tags: ["owlet", "spotted owlet", "athene", "owl", "nocturnal"]
-description: Wildlife photography of Spotted Owlet (Athene brama) photographed in urban India. Owlet in the Urban Green.
+tags: ["babbler", "turdoides"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

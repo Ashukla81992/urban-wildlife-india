@@ -1,15 +1,15 @@
 ---
-title: Owlet Roosting at Dawn
+title: Asian Openbill
 date: 2023-12-30
-location: Urban Tree, India
-species: Spotted Owlet (Athene brama)
+location: India
+species: Asian Openbill Stork (Anastomus oscitans)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO400
-caption: Spotted Owlet in the urban landscape of India.
-categories: ["birds", "nocturnal"]
+caption: Asian Openbill Stork in urban India.
+categories: ["birds", "waterbirds"]
 draft: false
-tags: ["owlet", "spotted owlet", "athene", "owl", "urban tree"]
-description: Wildlife photography of Spotted Owlet (Athene brama) photographed in urban India. Owlet Roosting at Dawn.
+tags: ["stork", "openbill"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

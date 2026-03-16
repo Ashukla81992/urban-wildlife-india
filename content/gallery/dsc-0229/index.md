@@ -1,15 +1,15 @@
 ---
-title: Pochards on the Urban Lake
+title: Indian Street Dog
 date: 2024-09-08
-location: Urban Lake, India
-species: Common Pochard (Aythya ferina)
+location: India
+species: Indian Pariah Dog (Canis lupus familiaris)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO400
-caption: Diving Duck in the urban landscape of India.
-categories: ["birds", "waterbirds"]
+caption: Indian Pariah Dog in urban India.
+categories: ["mammals"]
 draft: false
-tags: ["duck", "diving duck", "urban lake", "winter visitor"]
-description: Wildlife photography of Diving Duck (Aythya sp.) photographed in urban India. Diving Ducks in Formation.
+tags: ["dog", "pariah", "street dog"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

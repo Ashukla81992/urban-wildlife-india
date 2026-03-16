@@ -1,15 +1,15 @@
 ---
-title: Parakeet on a City Tree
+title: Street Dog
 date: 2021-01-24
-location: Urban Tree, India
-species: Rose-ringed Parakeet (Psittacula krameri)
+location: India
+species: Indian Pariah Dog (Canis lupus familiaris)
 camera: ONEPLUS A6010
 lens: 
 settings: ISO500
-caption: Rose-ringed Parakeet in the urban landscape of India.
-categories: ["birds"]
+caption: Indian Pariah Dog in urban India.
+categories: ["mammals"]
 draft: false
-tags: ["parakeet", "psittacula", "urban tree"]
-description: Wildlife photography of Rose-ringed Parakeet (Psittacula krameri) photographed in urban India. Parakeet on a City Tree.
+tags: ["dog"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

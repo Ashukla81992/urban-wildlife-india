@@ -1,13 +1,15 @@
 ---
-title: Dsc 4518(1)
+title: Jumping Spider
 date: 
-location: 
-species: 
+location: India
+species: Jumping Spider
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Jumping Spider in urban India.
+categories: ["invertebrates", "macro"]
 draft: false
+tags: ["spider"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

@@ -1,15 +1,15 @@
 ---
-title: Cormorant at the Waterside
+title: 
 date: 2021-09-05
-location: Urban Wetland, India
-species: Little Cormorant (Microcarbo niger)
+location: 
+species: 
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO450
-caption: Little Cormorant in the urban landscape of India.
-categories: ["birds", "waterbirds"]
-draft: false
-tags: ["cormorant", "waterbird", "wetland"]
-description: Wildlife photography of Little Cormorant (Microcarbo niger) photographed in urban India. Cormorant at the Waterside.
+caption: 
+categories: []
+draft: true
+tags: []
+description: 
 ---
 <!-- Add your story / observation notes here -->

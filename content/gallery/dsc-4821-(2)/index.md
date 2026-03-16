@@ -1,13 +1,15 @@
 ---
-title: Dsc 4821 (2)
+title: Common Coot
 date: 
-location: 
-species: 
+location: India
+species: Common Coot (Fulica atra)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Common Coot in urban India.
+categories: ["birds", "waterbirds"]
 draft: false
+tags: ["coot"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

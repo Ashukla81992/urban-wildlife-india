@@ -1,5 +1,5 @@
 ---
-title: Dsc 3846(1)
+title: 
 date: 
 location: 
 species: 
@@ -8,6 +8,6 @@ lens:
 settings: 
 caption: 
 categories: []
-draft: false
+draft: true
 ---
 <!-- Add your story / observation notes here -->

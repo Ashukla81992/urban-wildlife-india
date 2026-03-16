@@ -1,15 +1,15 @@
 ---
-title: Cormorant at the Waterside
+title: Brown-headed Barbet
 date: 2022-03-14
-location: Urban Wetland, India
-species: Little Cormorant (Microcarbo niger)
+location: India
+species: Brown-headed Barbet (Psilopogon zeylanicus)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO360
-caption: Little Cormorant in the urban landscape of India.
-categories: ["birds", "waterbirds"]
+caption: Brown-headed Barbet in urban India.
+categories: ["birds"]
 draft: false
-tags: ["cormorant", "waterbird", "wetland"]
-description: Wildlife photography of Little Cormorant (Microcarbo niger) photographed in urban India. Cormorant at the Waterside.
+tags: ["barbet", "psilopogon"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

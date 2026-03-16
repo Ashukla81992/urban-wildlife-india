@@ -1,13 +1,15 @@
 ---
-title: Dsc 3773(1)
+title: Indian Grey Hornbill
 date: 
-location: 
-species: 
+location: India
+species: Indian Grey Hornbill (Ocyceros birostris)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Indian Grey Hornbill in urban India.
+categories: ["birds"]
 draft: false
+tags: ["hornbill"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

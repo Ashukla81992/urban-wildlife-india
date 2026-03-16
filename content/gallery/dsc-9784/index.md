@@ -1,15 +1,15 @@
 ---
-title: Spot-billed Duck at the Lake
+title: Common Tailorbird
 date: 2024-07-14
-location: Urban Lake, India
-species: Indian Spot-billed Duck (Anas poecilorhyncha)
+location: India
+species: Common Tailorbird (Orthotomus sutorius)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO5000
-caption: Indian Spot-billed Duck in the urban landscape of India.
-categories: ["birds", "waterbirds"]
+caption: Common Tailorbird in urban India.
+categories: ["birds"]
 draft: false
-tags: ["duck", "spot-billed", "waterfowl", "urban lake"]
-description: Wildlife photography of Indian Spot-billed Duck (Anas poecilorhyncha) photographed in urban India. Spot-billed Duck at the Lake.
+tags: ["tailorbird", "orthotomus"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

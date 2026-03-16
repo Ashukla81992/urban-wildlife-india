@@ -1,15 +1,15 @@
 ---
-title: Kingfisher by the Canal
+title: Purple Sunbird
 date: 2021-04-03
-location: Urban Canal, India
-species: Common Kingfisher (Alcedo atthis)
+location: India
+species: Purple Sunbird (Cinnyris asiaticus)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO400
-caption: Common Kingfisher in the urban landscape of India.
-categories: ["birds", "waterbirds"]
+caption: Purple Sunbird in urban India.
+categories: ["birds"]
 draft: false
-tags: ["kingfisher", "alcedo", "canal"]
-description: Wildlife photography of Common Kingfisher (Alcedo atthis) photographed in urban India. Kingfisher by the Canal.
+tags: ["sunbird", "cinnyris"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

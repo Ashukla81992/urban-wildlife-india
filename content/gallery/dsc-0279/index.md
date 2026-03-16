@@ -1,15 +1,15 @@
 ---
-title: Black Kite Skimming the Rooftops
+title: Indian Cobra
 date: 2024-09-08
-location: Urban Neighbourhood, India
-species: Black Kite (Milvus migrans)
+location: India
+species: Indian Spectacled Cobra (Naja naja)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO1250
-caption: Black Kite in the urban landscape of India.
-categories: ["birds", "raptors"]
+caption: Indian Spectacled Cobra in urban India.
+categories: ["reptiles"]
 draft: false
-tags: ["kite", "black kite", "milvus", "raptor", "urban"]
-description: Wildlife photography of Black Kite (Milvus migrans) photographed in urban India. Black Kite Skimming the Rooftops.
+tags: ["cobra"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

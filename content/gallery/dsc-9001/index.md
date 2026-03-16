@@ -1,15 +1,15 @@
 ---
-title: Owlet Roosting at Dawn
+title: Indian Robin
 date: 2024-03-21
-location: Urban Tree, India
-species: Spotted Owlet (Athene brama)
+location: India
+species: Indian Robin (Copsychus fulicatus)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO400
-caption: Spotted Owlet in the urban landscape of India.
-categories: ["birds", "nocturnal"]
+caption: Indian Robin in urban India.
+categories: ["birds"]
 draft: false
-tags: ["owlet", "spotted owlet", "athene", "owl", "nocturnal"]
-description: Wildlife photography of Spotted Owlet (Athene brama) photographed in urban India. Owlet in the Urban Green.
+tags: ["indian robin", "copsychus"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

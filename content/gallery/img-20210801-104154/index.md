@@ -1,15 +1,15 @@
 ---
-title: Squirrel on the Compound Wall
+title: 
 date: 2021-08-01
-location: Urban Garden, India
-species: Five-striped Palm Squirrel (Funambulus pennantii)
+location: 
+species: 
 camera: ONEPLUS A6010
 lens: 
 settings: ISO160
-caption: Five-striped Palm Squirrel in the urban landscape of India.
-categories: ["mammals", "small-mammals"]
-draft: false
-tags: ["squirrel", "palm squirrel", "urban"]
-description: Wildlife photography of Five-striped Palm Squirrel (Funambulus pennantii) photographed in urban India. Squirrel on the Compound Wall.
+caption: 
+categories: []
+draft: true
+tags: []
+description: 
 ---
 <!-- Add your story / observation notes here -->

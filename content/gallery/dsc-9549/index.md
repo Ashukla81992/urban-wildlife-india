@@ -1,15 +1,15 @@
 ---
-title: Owlet in the Urban Green
+title: Pied Kingfisher
 date: 2024-07-02
-location: Urban Neighbourhood, India
-species: Spotted Owlet (Athene brama)
+location: India
+species: Pied Kingfisher (Ceryle rudis)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO800
-caption: Spotted Owlet in the urban landscape of India.
-categories: ["birds", "nocturnal"]
+caption: Pied Kingfisher in urban India.
+categories: ["birds", "waterbirds"]
 draft: false
-tags: ["owlet", "spotted owlet", "athene", "owl", "nocturnal"]
-description: Wildlife photography of Spotted Owlet (Athene brama) photographed in urban India. Owlet in the Urban Green.
+tags: ["kingfisher", "pied kingfisher"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

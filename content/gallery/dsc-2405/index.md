@@ -1,15 +1,15 @@
 ---
-title: Kite on the Iron Railing
+title: Black Kite
 date: 2020-01-18
-location: Urban Neighbourhood, India
+location: India
 species: Black Kite (Milvus migrans)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO100
-caption: Black Kite in the urban landscape of India.
+caption: Black Kite in urban India.
 categories: ["birds", "raptors"]
 draft: false
-tags: ["kite", "black kite", "raptor", "perch", "iron"]
-description: Wildlife photography of Black Kite (Milvus migrans) photographed in urban India. Kite on the Iron Railing.
+tags: ["kite", "milvus", "raptor"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

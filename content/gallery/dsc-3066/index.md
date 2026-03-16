@@ -1,15 +1,15 @@
 ---
-title: Squirrel in the Urban Garden
+title: Rock Pigeon
 date: 2020-05-12
-location: Urban Garden, India
-species: Five-striped Palm Squirrel (Funambulus pennantii)
+location: India
+species: Rock Pigeon (Columba livia)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO283
-caption: Five-striped Palm Squirrel in the urban landscape of India.
-categories: ["mammals", "small-mammals"]
+caption: Rock Pigeon in urban India.
+categories: ["birds"]
 draft: false
-tags: ["squirrel", "palm squirrel", "funambulus", "feeder"]
-description: Wildlife photography of Five-striped Palm Squirrel (Funambulus pennantii) photographed in urban India. Squirrel in the Urban Garden.
+tags: ["pigeon", "columba"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

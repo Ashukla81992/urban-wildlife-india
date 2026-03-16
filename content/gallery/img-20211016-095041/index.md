@@ -1,15 +1,15 @@
 ---
-title: Parakeet on the Colony Tree
+title: 
 date: 2021-10-16
-location: Urban Colony, India
-species: Rose-ringed Parakeet (Psittacula krameri)
+location: 
+species: 
 camera: ONEPLUS A6010
 lens: 
 settings: ISO400
-caption: Rose-ringed Parakeet in the urban landscape of India.
-categories: ["birds"]
-draft: false
-tags: ["parakeet", "psittacula", "colony", "urban"]
-description: Wildlife photography of Rose-ringed Parakeet (Psittacula krameri) photographed in urban India. Parakeet on the Colony Tree.
+caption: 
+categories: []
+draft: true
+tags: []
+description: 
 ---
 <!-- Add your story / observation notes here -->

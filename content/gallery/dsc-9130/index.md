@@ -1,15 +1,15 @@
 ---
-title: Owlet in the Urban Green
+title: Nest Box Bird
 date: 2024-03-22
-location: Urban Neighbourhood, India
-species: Spotted Owlet (Athene brama)
+location: India
+species: Small bird in nest box
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO100
-caption: Spotted Owlet in the urban landscape of India.
-categories: ["birds", "nocturnal"]
+caption: Small bird in nest box in urban India.
+categories: ["birds"]
 draft: false
-tags: ["owlet", "spotted owlet", "athene", "owl", "nocturnal"]
-description: Wildlife photography of Spotted Owlet (Athene brama) photographed in urban India. Owlet in the Urban Green.
+tags: ["nest", "passerine"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

@@ -1,13 +1,15 @@
 ---
-title: Dsc 5621(1)
+title: Barn Swallow
 date: 
-location: 
-species: 
+location: India
+species: Barn Swallow (Hirundo rustica)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Barn Swallow in urban India.
+categories: ["birds"]
 draft: false
+tags: ["swallow"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

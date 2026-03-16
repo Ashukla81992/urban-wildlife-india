@@ -1,15 +1,15 @@
 ---
-title: Owlet in the Urban Green
+title: Fish at Surface
 date: 2024-06-15
-location: Urban Neighbourhood, India
-species: Spotted Owlet (Athene brama)
+location: India
+species: Freshwater fish
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO800
-caption: Spotted Owlet in the urban landscape of India.
-categories: ["birds", "nocturnal"]
+caption: Freshwater fish in urban India.
+categories: ["wildlife", "aquatic"]
 draft: false
-tags: ["owlet", "spotted owlet", "athene", "owl", "nocturnal"]
-description: Wildlife photography of Spotted Owlet (Athene brama) photographed in urban India. Owlet in the Urban Green.
+tags: ["fish", "freshwater"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

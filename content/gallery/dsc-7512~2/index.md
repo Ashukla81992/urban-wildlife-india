@@ -1,13 +1,15 @@
 ---
-title: Dsc 7512~2
+title: Brahminy Kite
 date: 
-location: 
-species: 
+location: India
+species: Brahminy Kite (Haliastur indus)
 camera: 
 lens: 
 settings: 
-caption: 
-categories: []
+caption: Brahminy Kite in urban India.
+categories: ["birds", "raptors"]
 draft: false
+tags: ["kite"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

@@ -1,15 +1,15 @@
 ---
-title: Moorhen Wading at the Lake Edge
+title: Domestic Duck
 date: 2023-06-17
-location: Urban Lake, India
-species: Common Moorhen (Gallinula chloropus)
+location: India
+species: Domestic Duck (Anas platyrhynchos domesticus)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO100
-caption: Common Moorhen in the urban landscape of India.
+caption: Domestic Duck in urban India.
 categories: ["birds", "waterbirds"]
 draft: false
-tags: ["moorhen", "gallinula", "waterbird", "lake"]
-description: Wildlife photography of Common Moorhen (Gallinula chloropus) photographed in urban India. Moorhen Wading at the Lake Edge.
+tags: ["duck"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

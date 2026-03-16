@@ -1,15 +1,15 @@
 ---
-title: Peacock in the Monsoon Grass
+title: Indian Peafowl
 date: 2024-06-05
-location: Urban Wetland Edge, India
+location: India
 species: Indian Peafowl (Pavo cristatus)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO6400
-caption: A male Indian Peafowl navigates tall reeds at the edge of an urban water body, his cobalt neck and scalloped back feathers framed by green blades.
-categories: ["birds", "national-bird"]
-tags: ["indian peafowl", "pavo cristatus", "peacock wetland", "national bird india", "urban wetland bird", "peafowl photography"]
-description: A male Indian Peafowl (Pavo cristatus) photographed moving through tall reeds at an urban wetland — a striking environmental portrait of India's national bird.
+caption: Indian Peafowl in urban India.
+categories: ["birds"]
+tags: ["peafowl", "peacock"]
+description: 
 draft: false
 ---
 While peacocks are most famous for the dramatic fan display of breeding season, this shot captures a different quality — the bird at home in tall vegetation, moving with surprising stealth through dense reeds at the edge of an urban lake.

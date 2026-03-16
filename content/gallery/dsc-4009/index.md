@@ -1,15 +1,15 @@
 ---
-title: Roller on a Sunny Perch
+title: Green Bee-eater
 date: 2020-09-01
-location: Urban Outskirts, India
-species: Indian Roller (Coracias benghalensis)
+location: India
+species: Green Bee-eater (Merops orientalis)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO1800
-caption: Paper Wasp in the urban landscape of India.
-categories: ["invertebrates", "macro"]
+caption: Green Bee-eater in urban India.
+categories: ["birds"]
 draft: false
-tags: ["wasp", "paper wasp", "ropalidia", "macro", "insect"]
-description: Wildlife photography of Paper Wasp (Ropalidia marginata) photographed in urban India. Paper Wasp on a Leaf.
+tags: ["bee-eater", "merops"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

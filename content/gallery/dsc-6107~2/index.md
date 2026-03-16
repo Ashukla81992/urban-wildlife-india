@@ -1,15 +1,15 @@
 ---
-title: Brown-headed Barbet in Autumn Foliage
+title: Brown-headed Barbet
 date: 2024-10-28
-location: Urban Tree, India
+location: India
 species: Brown-headed Barbet (Psilopogon zeylanicus)
 camera: 
 lens: 
 settings: 
-caption: A Brown-headed Barbet clings to a branch in a blaze of yellow autumn foliage, its streaked brown head and brilliant green body glowing in the golden light.
+caption: Brown-headed Barbet in urban India.
 categories: ["birds"]
-tags: ["brown-headed barbet", "psilopogon zeylanicus", "barbet india", "green bird india", "frugivore bird", "urban tree bird"]
-description: A Brown-headed Barbet (Psilopogon zeylanicus) photographed in autumn golden foliage — a large, fruit-eating bird common in urban tree canopies across peninsular India.
+tags: ["barbet"]
+description: 
 draft: false
 ---
 The Brown-headed Barbet is one of India's more striking urban tree-dwellers — a large, heavily-built bird with a thick bill, brilliant emerald-green plumage, and a streaked brown head that can be tricky to spot against bark. Its loud, repetitive call (*kutroo-kutroo-kutroo*) is one of the defining sounds of an Indian summer.

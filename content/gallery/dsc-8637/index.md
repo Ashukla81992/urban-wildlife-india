@@ -1,15 +1,15 @@
 ---
-title: Frangipani Bloom in the Urban Garden
+title: Domestic Cat
 date: 2023-11-24
-location: Urban Garden, India
-species: Plumeria (Frangipani) (Plumeria rubra)
+location: India
+species: Domestic Cat (Felis catus)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO360
-caption: Plumeria (Frangipani) in the urban landscape of India.
-categories: ["macro", "flora"]
+caption: Domestic Cat in urban India.
+categories: ["mammals"]
 draft: false
-tags: ["plumeria", "frangipani", "flower", "macro", "white"]
-description: Wildlife photography of Plumeria (Frangipani) (Plumeria rubra) photographed in urban India. Frangipani Bloom in the Urban Garden.
+tags: ["cat", "felis"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

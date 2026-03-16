@@ -1,15 +1,15 @@
 ---
-title: Cryptic Bug on a Leaf
+title: Dragonfly
 date: 2020-08-11
-location: Urban Garden, India
-species: Leaf-footed Bug (Tessaratomidae sp.)
+location: India
+species: Wandering Glider (Pantala flavescens)
 camera: Nikon D5300
 lens: 70-300mm f/4.5-6.3 AF-P VR
 settings: ISO6400
-caption: Leaf-footed Bug in the urban landscape of India.
+caption: Wandering Glider in urban India.
 categories: ["invertebrates", "macro"]
 draft: false
-tags: ["bug", "leaf bug", "cryptic", "macro", "insect"]
-description: Wildlife photography of Leaf-footed Bug (Tessaratomidae / Leaf Bug) photographed in urban India. Cryptic Bug on a Leaf.
+tags: ["dragonfly", "pantala"]
+description: 
 ---
 <!-- Add your story / observation notes here -->

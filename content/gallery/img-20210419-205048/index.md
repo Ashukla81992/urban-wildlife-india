@@ -1,15 +1,15 @@
 ---
-title: Atlas Moth on the Wall
+title: Street Dog
 date: 2021-04-19
-location: Urban Wall, India
-species: Atlas Moth (Attacus atlas)
+location: India
+species: Indian Pariah Dog (Canis lupus familiaris)
 camera: ONEPLUS A6010
 lens: 
 settings: ISO3200
-caption: Atlas Moth in the urban landscape of India.
-categories: ["invertebrates", "macro"]
+caption: Indian Pariah Dog in urban India.
+categories: ["mammals"]
 draft: false
-tags: ["moth", "atlas moth", "macro", "nocturnal"]
-description: Wildlife photography of Atlas Moth (Attacus atlas) photographed in urban India. Atlas Moth on the Wall.
+tags: ["dog"]
+description: 
 ---
 <!-- Add your story / observation notes here -->
