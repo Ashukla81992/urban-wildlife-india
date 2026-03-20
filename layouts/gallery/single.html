@@ -11,7 +11,7 @@
 
   {{/* ── Top navigation ── */}}
   <nav class="photo-topnav">
-    <a href="{{ "/gallery/" | relURL }}" class="back-link">← All Photos</a>
+    <a href="{{ "gallery/" | relURL }}" class="back-link">← All Photos</a>
     <div class="photo-topnav-arrows">
       {{ with .PrevInSection }}
         <a href="{{ .RelPermalink }}" class="nav-arrow" title="{{ .Title }}">‹ Prev</a>

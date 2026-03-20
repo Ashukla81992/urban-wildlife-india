@@ -127,7 +127,7 @@ a:hover { color: var(--text); }
   padding: calc(var(--nav-h) + 4rem) 2rem 4rem;
   background:
     linear-gradient(to bottom, rgba(10,10,10,0.3) 0%, rgba(10,10,10,0.85) 100%),
-    url('/images/hero-bg.webp') center/cover no-repeat;
+    url('../images/hero-bg.webp') center/cover no-repeat;
   position: relative;
   text-align: center;
 }
