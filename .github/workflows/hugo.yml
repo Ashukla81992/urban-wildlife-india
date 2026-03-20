@@ -51,6 +51,13 @@ jobs:
             --minify \
             --baseURL "https://ashukla81992.github.io/urban-wildlife-india/"
 
+      - name: Ensure Google Search Console verification file
+        run: |
+          cp -f static/google623a1e4044f495b1.html public/google623a1e4044f495b1.html
+          test -f public/google623a1e4044f495b1.html
+          grep -q 'google-site-verification' public/google623a1e4044f495b1.html
+          wc -c public/google623a1e4044f495b1.html
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
